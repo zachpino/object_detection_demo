@@ -1,0 +1,54 @@
+item {
+    id: 1
+    name: 'cheez-it'
+}
+
+item {
+    id: 2
+    name: 'cookie'
+}
+
+item {
+    id: 3
+    name: 'corn nuts'
+}
+
+item {
+    id: 4
+    name: 'goldfish'
+}
+
+item {
+    id: 5
+    name: 'oreo'
+}
+
+item {
+    id: 6
+    name: 'peanut'
+}
+
+item {
+    id: 7
+    name: 'pirate booty'
+}
+
+item {
+    id: 8
+    name: 'pistachio'
+}
+
+item {
+    id: 9
+    name: 'rice krispies'
+}
+
+item {
+    id: 10
+    name: 'sunflower seed'
+}
+
+item {
+    id: 11
+    name: 'trail mix'
+}

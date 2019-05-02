@@ -1,0 +1,26 @@
+<annotation>
+	<folder>andi_divya</folder>
+	<filename>IMG_0151.jpg</filename>
+	<path>/Users/zap/Desktop/snackRec/andi_divya/IMG_0151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunflower seed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>84</ymin>
+			<xmax>381</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

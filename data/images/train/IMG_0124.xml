@@ -1,0 +1,26 @@
+<annotation>
+	<folder>andi_divya</folder>
+	<filename>IMG_0124.jpg</filename>
+	<path>/Users/zap/Desktop/snackRec/andi_divya/IMG_0124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistachio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>82</ymin>
+			<xmax>258</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>
